@@ -1,12 +1,14 @@
 import React, { Component } from 'react'
 
-export default class CreateUser extends Component {
+export default class Logout extends Component {
+
     render() {
         return (
             <div>
-                <p>CreateUser</p>
+                <p>Logout</p>                
             </div>
         )
     }
 }
+
 
